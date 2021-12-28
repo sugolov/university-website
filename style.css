@@ -21,7 +21,7 @@ display: inline;
 .topnav {
 display: grid;
 justify-content: center;
-grid-template-columns: 10vw 10vw 10vw;
+grid-template-columns: 10vw 10vw 10vw 10vw;
 margin-top: 5vh;
 margin-bottom: 5vh;
 }
@@ -35,7 +35,7 @@ padding: 5px 5px;
 
 /* Change the color of links on hover */
 .topnav a:hover {
-background-color: #ff0000;
+background-color: #4E93FB;
 color: black;
 }
 
